@@ -5,8 +5,11 @@ https://colab.research.google.com/drive/13TH2Gf-vrPrhUSONLES50Pov6T8PrVQJ?usp=sh
 DOWNLOAD:
 keras_model.h5
 labels.txt
+THEN drop them into the file browing section on the left
 
 Use your webcam camera app to take a photo of you holding up a fist for ROCK.
+
+(WHEN TAKING THE PICTURES PUT YOUR HANDS PRETTY CLOSE TO THE CAMERA FOR BETTER RESULTS.)
 
 Rename the image to "ROCK.jpg".
 
