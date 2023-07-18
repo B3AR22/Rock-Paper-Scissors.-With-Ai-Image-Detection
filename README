@@ -2,6 +2,10 @@ This is the link to the raw code and files
 
 https://colab.research.google.com/drive/13TH2Gf-vrPrhUSONLES50Pov6T8PrVQJ?usp=sharing
 
+DOWNLOAD:
+keras_model.h5
+labels.txt
+
 Use your webcam camera app to take a photo of you holding up a fist for ROCK.
 
 Rename the image to "ROCK.jpg".
