@@ -1,4 +1,13 @@
 This is the link to the raw code and files
 
-
 https://colab.research.google.com/drive/13TH2Gf-vrPrhUSONLES50Pov6T8PrVQJ?usp=sharing
+
+Use your webcam camera app to take a photo of you holding up a fist for ROCK.
+
+Rename the image to "ROCK.jpg".
+
+Drag and drop the resulting file onto the file browser to upload it.
+
+Replace the IMAGE_PATH with the name of your image ("ROCK.jpg"). 
+
+Now to that for Paper, Scissors and a control one where you just take a picture of your face without holding uo a symble.
