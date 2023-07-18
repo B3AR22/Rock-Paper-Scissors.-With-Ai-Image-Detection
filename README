@@ -18,3 +18,5 @@ Drag and drop the resulting file onto the file browser to upload it.
 Replace the IMAGE_PATH with the name of your image ("ROCK.jpg"). 
 
 Now to that for Paper, Scissors and a control one where you just take a picture of your face without holding uo a symble.
+
+Now when you want to test change the IMAGE_PATH to one of your pitures then run the code and scrol down.
